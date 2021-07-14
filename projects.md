@@ -1,5 +1,3 @@
-# List of OSS projects
-
 "MIRACLE LINUX powered by Cybertrust" has been contributing to the following OSS projects.
 
 | Project | Subproject | Project/repository website |
@@ -8,7 +6,7 @@
 | Civil Infrastructure Platform | CIP SLTS Kernel | https://git.kernel.org/pub/scm/linux/kernel/git/cip/linux-cip.git |
 | Civil Infrastructure Platform | CIP Kselftest | https://gitlab.com/cip-playground/cip-kselftest |
 | Civil Infrastructure Platform | cip-kernel-config | https://gitlab.com/cip-project/cip-kernel/cip-kernel-config
-| Civil Infrastructure Platform | cip-kernel-sec | https://gitlab.com/cip-project/cip-kernel/cip-kernel-config |
+| Civil Infrastructure Platform | cip-kernel-sec | https://gitlab.com/cip-project/cip-kernel/cip-kernel-sec |
 | Civil Infrastructure Platform | lava-docker | https://gitlab.com/cip-project/cip-testing/lava-docker |
 | Civil Infrastructure Platform | linux-cip-ci | https://gitlab.com/cip-project/cip-testing/linux-cip-ci |
 | KernelCI | kernelci-core | https://github.com/kernelci/kernelci-core |
