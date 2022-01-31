@@ -1,4 +1,5 @@
-"MIRACLE LINUX powered by Cybertrust" has been contributing to the following OSS projects.
+"MIRACLE LINUX powered by Cybertrust" (it is a brand name for OSS activities by Cybertrust) has been contributing to the following OSS projects.
+
 
 | Project | Subproject | Project/repository website |
 | --- | --- | --- |
@@ -22,3 +23,5 @@
 | util-linux | | https://github.com/karelzak/util-linux |
 | Yocto Project | meta-freescale | https://git.yoctoproject.org/cgit/cgit.cgi/meta-freescale |
 | Yocto Project | poky | https://git.yoctoproject.org/cgit/cgit.cgi/poky |
+
+© Cybertrust Japan Co., Ltd.
