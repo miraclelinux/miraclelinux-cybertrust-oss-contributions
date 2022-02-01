@@ -1,4 +1,4 @@
-"MIRACLE LINUX powered by Cybertrust" (it is a brand name for OSS activities by Cybertrust) has been contributing to the following OSS projects.
+"MIRACLE LINUX powered by Cybertrust Japan" (it is a brand name for OSS activities by Cybertrust Japan) has been contributing to the following OSS projects.
 
 
 | Project | Subproject | Project/repository website |
