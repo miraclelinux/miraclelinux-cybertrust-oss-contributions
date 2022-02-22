@@ -12,7 +12,7 @@
 | Civil Infrastructure Platform | linux-cip-ci | https://gitlab.com/cip-project/cip-testing/linux-cip-ci |
 | KernelCI | kernelci-core | https://github.com/kernelci/kernelci-core |
 | KernelCI | kernelci-docker | https://github.com/kernelci/kernelci-docker |
-| KernelCI | kernelci-project | https://github.com/aliceinwire/kernelci-project |
+| KernelCI | kernelci-project | https://github.com/kernelci/kernelci-project |
 | KernelCI | lava-docker | https://github.com/kernelci/lava-docker |
 | LAVA | | https://git.lavasoftware.org/lava/lava |
 | Linux Kernel | Mainline | https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git |
