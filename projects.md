@@ -6,10 +6,11 @@
 | Buildbot | | https://github.com/buildbot/buildbot |
 | Civil Infrastructure Platform | CIP SLTS Kernel | https://git.kernel.org/pub/scm/linux/kernel/git/cip/linux-cip.git |
 | Civil Infrastructure Platform | CIP Kselftest | https://gitlab.com/cip-playground/cip-kselftest |
-| Civil Infrastructure Platform | cip-kernel-config | https://gitlab.com/cip-project/cip-kernel/cip-kernel-config
+| Civil Infrastructure Platform | cip-kernel-config | https://gitlab.com/cip-project/cip-kernel/cip-kernel-config |
 | Civil Infrastructure Platform | cip-kernel-sec | https://gitlab.com/cip-project/cip-kernel/cip-kernel-sec |
 | Civil Infrastructure Platform | lava-docker | https://gitlab.com/cip-project/cip-testing/lava-docker |
 | Civil Infrastructure Platform | linux-cip-ci | https://gitlab.com/cip-project/cip-testing/linux-cip-ci |
+| Civil Infrastructure Platform | isar-cip-core | https://gitlab.com/cip-project/cip-core/isar-cip-core |
 | KernelCI | kernelci-core | https://github.com/kernelci/kernelci-core |
 | KernelCI | kernelci-docker | https://github.com/kernelci/kernelci-docker |
 | KernelCI | kernelci-project | https://github.com/kernelci/kernelci-project |
